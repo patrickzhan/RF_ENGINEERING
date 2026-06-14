@@ -1,5 +1,6 @@
 # Designed Modules by Patrick Zhang
 ## 1. Phased array antenna(aperture coupling)
+<img src="images/Phased_array_unit.png" alt="Alt text" width="600" height="600">
 <img src="images/Phased_array.png" alt="Alt text" width="600" height="600">
 <img src="images/Phased_array_beam.gif" alt="Alt text" width="600" height="600">
 
